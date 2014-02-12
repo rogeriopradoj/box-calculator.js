@@ -1,0 +1,27 @@
+{
+    "name": "rogeriopradoj/box-calculator.js",
+    "description": "Série de cálculos usados na Box, some calculations done at Box",
+    "type": "component",
+    "keywords": [
+        "box", "calculator", "js"
+    ],
+    "license": "MIT",
+    "authors": [{
+        "name": "Rogerio Prado de Jesus",
+        "email": "rogeriopradoj@gmail.com"
+    }],
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "name": "box-calculator",
+            "scripts": [
+                "box-calculator.js"
+            ],
+            "files": [
+                "box-calculator.js"
+            ]
+        }
+    }
+}

@@ -23,6 +23,10 @@ Usage
     </script>
 ```
 
+Package Managers
+----------------
+
+* [Composer](http://packagist.org/packages/rogeriopradoj/box-calculator.js): `rogeriopradoj/box-calculator.js`
 
 Testing
 -------
